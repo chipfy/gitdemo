@@ -1,1 +1,1 @@
-function f10(){}
+function f10() {console.log('test')}
